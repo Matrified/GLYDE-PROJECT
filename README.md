@@ -1,2 +1,3 @@
 # GLYDE-PROJECT
-This is for our university project . this our final group project for this subject.
+members: hadi,jo,luvernesh,youssef,terraysh
+project work: read me will update later
