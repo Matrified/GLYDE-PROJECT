@@ -1,0 +1,12 @@
+SETUP
+1.Download or Clone the Repository: Get the project files by either downloading the ZIP or cloning the repository.
+2.Install Dependencies: Ensure all necessary tools (like Node.js) are installed.
+3.Open the Project: Navigate to the appropriate folder for either the website or mobile app.
+
+USAGE
+refer the doc folder for websitte, mobile app and user manual
+
+CONTIBUTION
+1.Fork the Repository and create a new branch.
+2.Make Changes and commit them.
+3.Submit a Pull Request for review.
